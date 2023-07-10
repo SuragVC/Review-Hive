@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704637352643",
+    "project_id": "review-hive",
+    "storage_bucket": "review-hive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704637352643:android:d0dcea009520bdded84076",
+        "android_client_info": {
+          "package_name": "com.example.review_hive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704637352643-pirv55h5v3p03ops6uhus5q0gbsaksid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBht2xIr4NbDUNGVDz8FQFJwhhhvg9Ymq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704637352643-pirv55h5v3p03ops6uhus5q0gbsaksid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
